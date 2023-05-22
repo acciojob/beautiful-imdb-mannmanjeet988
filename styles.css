@@ -1,4 +1,4 @@
-.moviePic{
+img.moviePic{
 	display: block;
 	margin-left: auto;
     margin-right: auto;
@@ -6,7 +6,7 @@
 	width: 50%;
 	opacity: 1;
 }
-.movieDetail{
+p.movieDetail{
 background:aquamarine;
 position: fixed;
 border : 5px solid black;
