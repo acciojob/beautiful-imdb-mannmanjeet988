@@ -1,13 +1,18 @@
 .moviePic{
-	height: 200px;
-	width: 500px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	height: 500px;
+	width: 50%;
 	opacity: 1;
 }
 .movieDetail{
 background:aquamarine;
 position: fixed;
+border : 5px solid black;
+border-radius:10px;
 top : 150px;
-width:95%;
+width:90%;
 padding: 10px;
 font-weight: bold;
 text-align: auto;
