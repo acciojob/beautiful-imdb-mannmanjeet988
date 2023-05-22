@@ -6,7 +6,7 @@ img.moviePic{
 	width: 50%;
 	opacity: 1;
 }
-p.movieDetail{
+.movieDetail{
 background:aquamarine;
 position: fixed;
 border : 5px solid black;
