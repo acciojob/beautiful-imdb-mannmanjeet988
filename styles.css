@@ -1,2 +1,17 @@
-
+.moviePic{
+	height: 200px;
+	width: 500px;
+	opacity: 1;
+}
+.movieDetail{
+background:aquamarine;
+position: fixed;
+top : 150px;
+width:95%;
+padding: 10px;
+font-weight: bold;
+text-align: auto;
+font-size: 14px;
+	
+}
 /* Your CSS Code here. */
