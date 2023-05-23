@@ -8,8 +8,7 @@
 }
 
 .movieDetail{
-margin-top : 200px;
-position: fixed;
+position:static;
 /* border : 5px solid black; */
 /* border-radius:10px; */
 top : 150px;
