@@ -1,12 +1,13 @@
-img.moviePic{
+.moviePic img{
 	display: block;
 	margin-left: auto;
     margin-right: auto;
-	height: 500px;
+	height: 300px;
 	width: 50%;
 	opacity: 1;
 }
-.movieDetail{
+.movieDetail {
+	margin-top : 200px;
 background:aquamarine;
 position: fixed;
 border : 5px solid black;
