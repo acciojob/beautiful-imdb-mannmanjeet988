@@ -6,8 +6,9 @@
 	width: 50%;
 	opacity: 1;
 }
-.movieDetail {
-	margin-top : 200px;
+
+.movieDetail{
+margin-top : 200px;
 background:aquamarine;
 position: fixed;
 border : 5px solid black;
@@ -17,7 +18,8 @@ width:90%;
 padding: 10px;
 font-weight: bold;
 text-align: center;
-font-size: 14px;
-	
+font-size: 14px;	
 }
+
+
 /* Your CSS Code here. */
