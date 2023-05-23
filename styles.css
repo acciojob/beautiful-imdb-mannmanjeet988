@@ -9,7 +9,8 @@
 
 .movieDetail{
 position:static;
-/* border : 5px solid black; */
+	background : aquamarine;
+border : 1px solid black; */
 /* border-radius:10px; */
 top : 150px;
 width:90%;
